@@ -1,0 +1,67 @@
+$color_bg: 			#f0efed;
+$color_service: #33CC66;
+$color_refer:   #B4E519;
+$color_tour:    #B4E519;
+$color_folio:   #7268F3;
+$color_connect: #D8136B;
+$color_grey:		#e1e1e1;
+$color_dark:    #393939;
+
+$pad: 				50px;
+$icon:				140px;
+
+@mixin clearfix {
+  // For modern browsers
+  &:before,
+  &:after {
+    content:"";
+    display:table;
+  }
+  &:after {
+    clear:both;
+  }  // For IE 6/7 (trigger hasLayout)
+  & {
+    zoom:1;
+  }
+}
+
+@mixin rounded_corners {
+	-webkit-border-radius: 5px;
+	border-radius: 5px;	
+}
+@mixin circle {
+  -webkit-border-radius: 50%;
+  border-radius: 50%; 
+}
+
+@mixin animation {
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.2s linear;
+	-ms-transition: all 0.2s linear;
+	-o-transition: all 0.2s linear;
+	transition: all 0.2s linear;
+}
+
+@mixin box-sizing {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+@mixin easing {
+  -webkit-transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1.000); 
+  -moz-transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1.000); 
+  -ms-transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1.000); 
+  -o-transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1.000); 
+  transition-timing-function: cubic-bezier(0.645, 0.045, 0.355, 1.000); /* easeInOutCubic */
+}
+
+@mixin iconfont {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  -webkit-font-smoothing: antialiased;
+}

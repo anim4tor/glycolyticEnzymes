@@ -1,0 +1,680 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"active",
+				"active_color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"color",
+				"color_dark"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"points",
+				"points"
+			],
+			[
+				"ties",
+				"ties"
+			],
+			[
+				"standin",
+				"standing"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"An",
+				"Antigoni"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"Antigo",
+				"AntigoniBold"
+			],
+			[
+				"col",
+				"color_bg"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"colo",
+				"color_bg"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"form",
+				"form_return"
+			],
+			[
+				"pap",
+				"paperplane_fly"
+			],
+			[
+				"cl",
+				"clearfix"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"b",
+				"br	Tag"
+			],
+			[
+				"bol",
+				"bold"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"d",
+				"display"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 4792,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.scss",
+			"settings":
+			{
+				"buffer_size": 3900,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 806,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/flexslider.css",
+			"settings":
+			{
+				"buffer_size": 3852,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 196.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/WebDesign/milanBednarik/js/main.js",
+		"/D/WebDesign/glycolyticEnzymes/css/_bits.scss",
+		"/D/WebDesign/glycolyticEnzymes/css/_style.scss",
+		"/D/Graphics/projects/autoPack_challenge_HIV_serum/scripts/exprMatrixProtein.mel",
+		"/D/WebDesign/milanBednarik/css/_folio.scss",
+		"/D/WebDesign/milanBednarik/css/_homepage.scss",
+		"/D/WebDesign/milanBednarik/css/_services.scss",
+		"/D/WebDesign/milanBednarik/css/_tour.scss",
+		"/D/WebDesign/milanBednarik/css/_intro.scss",
+		"/D/WebDesign/milanBednarik/css/_font.scss",
+		"/D/WebDesign/milanBednarik/css/_icons.scss",
+		"/D/WebDesign/milanBednarik/css/_bits.scss",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI02.985/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.302/style.css",
+		"/D/WebDesign/milanBednarik/css/style.scss",
+		"/D/WebDesign/milanBednarik/js/jquery.fittext.js",
+		"/D/WebDesign/milanBednarik/css/_connect.scss",
+		"/D/WebDesign/milanBednarik/src/connect.php",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.100/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.878/style.css",
+		"/D/WebDesign/milanBednarik/css/_normalize.scss",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.682/style.css",
+		"/D/WebDesign/milanBednarik/milanBednarik.sublime-project",
+		"/D/WebDesign/milanBednarik/css/_font.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.744/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.190/style.css",
+		"/D/WebDesign/milanBednarik/css/_references.scss",
+		"/D/WebDesign/kuzelkySvitavy/src/mkl/results/mkl_results_print.php",
+		"/D/WebDesign/kuzelkySvitavy/lib/sql_eval.php",
+		"/D/WebDesign/kuzelkySvitavy/lib/sql_functions.php",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.978/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.300/style.css",
+		"/D/WebDesign/milanBednarik/js/lte-ie7.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI03.022/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.350/style.css",
+		"/D/WebDesign/milanBednarik/js/mapbox.js",
+		"/D/WebDesign/milanBednarik/src/analyticstracking.php",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.082/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.097/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.967/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.055/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI40.388/leaflet-src.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI13.188/leaflet.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI11.649/Jakefile.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI10.262/Leaflet.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI08.743/build.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI02.571/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.070/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.097/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.700/style.css",
+		"/C/Users/anim4tor/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.416/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.462/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI17.704/style.css",
+		"/C/Users/anim4tor/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/anim4tor/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI02.790/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI03.682/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.316/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI43.657/stylesheet.css",
+		"/D/WebDesign/milanBednarik/css/style.css",
+		"/D/WebDesign/milanBednarik/robots.txt",
+		"/D/WebDesign/milanBednarik/sitemap.xml",
+		"/D/WebDesign/milanBednarik/connect.php",
+		"/D/WebDesign/milanBednarik/css/_normalize.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI08.785/demo.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.391/lte-ie7.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.602/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI02.128/jquery.flexslider.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.845/flexslider.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI88.3119/style.css",
+		"/D/WebDesign/milanBednarik/css/flexslider.css",
+		"/D/WebDesign/kuzelkySvitavyOld/kuzelky-svitavy.cz/index.php",
+		"/D/WebDesign/kuzelkySvitavyOld/kuzelky-svitavy.cz/js/sksc.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI43.8308/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI32.8128/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI02.350/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.001/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI03.407/lte-ie7.js",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI07.807/style.css",
+		"/D/WebDesign/kuzelkySvitavyOld/kuzelky-svitavy.cz/css/style.css",
+		"/D/WebDesign/kuzelkySvitavy/css/_font.css",
+		"/D/WebDesign/kuzelkySvitavy/css/_bits.scss",
+		"/D/WebDesign/kuzelkySvitavy/css/_bits.css",
+		"/D/WebDesign/milanBednarik/css/_style.scss",
+		"/D/WebDesign/milanBednarik/css/_style.css",
+		"/D/WebDesign/kuzelkySvitavy/css/style.scss",
+		"/D/WebDesign/kuzelkySvitavy/index.php",
+		"/D/WebDesign/kuzelkySvitavy/css/_font.scss",
+		"/D/WebDesign/kuzelkySvitavy/js/sksc.js",
+		"/D/WebDesign/kuzelkySvitavy/src/home/news/load_news.php",
+		"/D/WebDesign/kuzelkySvitavy/css/_sitespec.scss",
+		"/D/WebDesign/kuzelkySvitavy/css/_normalize.scss",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI06.836/bootstrap.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.162/bootstrap-responsive.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/_tc/stylesheet.css",
+		"/D/WebDesign/kuzelkySvitavyOld/web/sksc.js",
+		"/D/WebDesign/kuzelkySvitavy/src/home/news/home_news.php",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI08.694/iconic_stroke.css",
+		"/D/WebDesign/kuzelkySvitavy/src/load_news.php",
+		"/D/WebDesign/kuzelkySvitavyOld/kuzelky-svitavy.cz/src/load_news.php",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI02.436/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.134/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI05.620/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.159/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI00.547/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/_tc/web fonts/novecentowide_light_macroman/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/_tc/web fonts/novecentowide_bold_macroman/stylesheet.css",
+		"/D/WebDesign/kuzelkySvitavyOld/web/style.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.369/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI01.743/stylesheet.css",
+		"/C/Users/anim4tor/AppData/Local/Temp/Rar$DI05.883/stylesheet.css",
+		"/D/WebDesign/kuzelkySvitavy/css/_main.scss",
+		"/C/Users/anim4tor/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/D/Programs/Sublime Text 2/sublime_text.exe",
+		"/D/WebDesign/kuzelkySvitavy/kuzelky-svitavy.cz/index.php",
+		"/D/WebDesign/kuzelkySvitavy/sksc_web_project/index.php",
+		"/D/Programs/WampServer/www/index.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"animate",
+			"clone",
+			"end",
+			"logo",
+			"h5",
+			"h4",
+			"h3",
+			"section",
+			"properity",
+			"rand-colo",
+			"background",
+			"step",
+			"h4",
+			"border",
+			"h3",
+			"work",
+			"phon",
+			"500",
+			"colors",
+			"services",
+			"tour",
+			"droplet",
+			"color_bg",
+			"color-bg",
+			"color-fol",
+			"rand",
+			"color",
+			"color_bg",
+			"start_color",
+			"each",
+			"#next",
+			"section-intro",
+			">\n",
+			"proje",
+			"project",
+			"spot",
+			"text-sha",
+			"h3",
+			"font-wei",
+			"droplet",
+			"px",
+			"drople",
+			"settings3",
+			"h3",
+			"copy",
+			"h1",
+			"call",
+			"entypo",
+			"antigoni_lightregular",
+			"entypo",
+			" ></",
+			"i",
+			"click",
+			"33 42"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"h4",
+			"h5",
+			"h4",
+			"article",
+			"service",
+			"h3",
+			"h4",
+			"references",
+			"color_tour",
+			"color_service",
+			"color_connect",
+			"color_service",
+			"color_connect",
+			"color_folio",
+			"active_color",
+			"section-header",
+			"marker",
+			"h4",
+			"%",
+			"tools",
+			"h4",
+			"icomoon",
+			"Antigoni"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 4792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1881,
+								1881
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 126.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.scss",
+					"settings":
+					{
+						"buffer_size": 3900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3595,
+								3595
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2261.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 806,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/flexslider.css",
+					"settings":
+					{
+						"buffer_size": 3852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1703,
+								1703
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 252.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
